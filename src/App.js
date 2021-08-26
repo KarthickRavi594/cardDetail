@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import 'react-credit-cards/es/styles-compiled.css';
-import Card from './Component/Card/Card';
+import Card from './Component/Card/Card.js';
 class App extends React.Component {
   constructor(props) {
     super(props)
